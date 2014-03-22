@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="quickcheck" project="quickcheck" tests="6" started="1" failures="0" errors="0" ignored="0">
+  <testsuite name="quickcheck.QuickCheckSuite" incomplete="true">
+    <testcase name="Binomial heap satisfies properties." classname="quickcheck.QuickCheckSuite" incomplete="true"/>
+    <testcase name="Bogus " classname="1" incomplete="true"/>
+    <testcase name="Bogus " classname="2" incomplete="true"/>
+    <testcase name="Bogus " classname="3" incomplete="true"/>
+    <testcase name="Bogus " classname="4" incomplete="true"/>
+    <testcase name="Bogus " classname="5" incomplete="true"/>
+  </testsuite>
+</testrun>

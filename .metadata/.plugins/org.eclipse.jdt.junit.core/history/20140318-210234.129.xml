@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="quickcheck" project="quickcheck" tests="6" started="5" failures="0" errors="0" ignored="0">
+  <testsuite name="quickcheck.QuickCheckSuite" incomplete="true">
+    <testcase name="Binomial heap satisfies properties." classname="quickcheck.QuickCheckSuite" time="172.945"/>
+    <testcase name="Bogus 1 binomial heap does not satisfy properties." classname="quickcheck.QuickCheckSuite" time="0.011"/>
+    <testcase name="Bogus 2 binomial heap does not satisfy properties." classname="quickcheck.QuickCheckSuite" time="0.014"/>
+    <testcase name="Bogus 3 binomial heap does not satisfy properties." classname="quickcheck.QuickCheckSuite" time="0.006"/>
+    <testcase name="Bogus 4 binomial heap does not satisfy properties." classname="quickcheck.QuickCheckSuite" incomplete="true"/>
+    <testcase name="Bogus 5 binomial heap does not satisfy properties." classname="quickcheck.QuickCheckSuite" incomplete="true"/>
+  </testsuite>
+</testrun>
